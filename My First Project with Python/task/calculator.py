@@ -45,3 +45,5 @@ net_income = total_income - sum_expenses
 
 # Print net income
 print(f"Net income: ${net_income}")
+
+#future code:
